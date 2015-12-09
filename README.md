@@ -2,13 +2,16 @@
 
 ## Requirements
 ### Must have
+
+  Note: It is not required that organizers/instructors/TAs are part of a underrepresented group.
+
 For any event, remember the mission of GoBridge is to diversify and improve the tech community. We ask that:
 
-- Your event reaches out to a group of people that are underrepresented **in your local community**. That might be women, people of color, people with low-income, LGBTQIA, people with disabilities, older workers, non-native English speakers, or any other underrepresented group.
+- Your event reaches out to a group of people who are underrepresented **in your local community**. That might be women, people of color, people with low-income, LGBTQIA, people with disabilities, older professionals, non-native English speakers, or any other underrepresented group.
 
 - Your event is free for people to attend. We want to remove as many barriers to entry as possible.
 
-- All GoBridge work is done on a volunteer basis; none of the organizers or GoBridge volunteers get paid.
+- All GoBridge work is done on a volunteer basis; no one who works to further the GoBridge cause gets paid for that work.
 
 - GoBridge abides by the [Go code of conduct with a GoBridge addendum](http://coc.golangbridge.org) and we expect all GoBridge events and initiatives to do the same.
 
