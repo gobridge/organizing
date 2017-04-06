@@ -38,6 +38,8 @@ After you have learned all you needed to know about how to organize an event, pl
 ## Ways to reach us (in order of preference)
 - Join us on the #gobridge channel on Gophers Slack (invite: https://gophersinvite.herokuapp.com)
 
+- Reach out to us on our mailing-list: https://groups.google.com/forum/#!forum/gobridge
+
 - Reach out to us on our mailing-list: https://groups.google.com/forum/#!members/gobridge
 
 - Email us at support@golangbridge.org
